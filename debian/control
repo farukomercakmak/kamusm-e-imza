@@ -1,0 +1,12 @@
+Source: kamusm-e-imza
+Section: utils 
+Priority: optional 
+Build-Depends: debhelper (>= 9) 
+Maintainer: Ömer ÇAKMAK <farukomercakmak@gmail.com.tr> 
+
+Package: kamusm-e-imza
+Section: utils 
+Priority: optional 
+Architecture: all 
+Description: TUBITAK KamuSM E-Imza Paketi
+	TUBITAK KamuSM E-Imza Paketi

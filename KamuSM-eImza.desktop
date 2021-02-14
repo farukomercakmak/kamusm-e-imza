@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=KamuSM-eImza
+GenericName=TUBITAK KamuSM-eImza Uygulama
+Comment=TUBITAK KamuSM-eImza Uygulaması
+Exec= /usr/bin/java -jar /usr/share/KamuSM-eImza/KamuSM-eImza.jar
+Icon= /usr/share/tubitak-kamusm-e-imza/icons/kamusm.png
+Categories=Development;Application
+Terminal=false
+
